@@ -5,14 +5,6 @@ Source Han Sans HW SC Woff2
 
 Just add woff2 font files into your CSS.
 
-e.g.
-
-```css
-p {
-    font-family: 'Noto Sans Mono CJK SC Regular', 'Source Han Sans HW SC Regular', url('/path/to/SourceHanSansHWSC-Regular.woff2') format('woff2');
-}
-```
-
 Including the following fonts,
 
 #### Source Han Sans HW SC (CJK Mono)
